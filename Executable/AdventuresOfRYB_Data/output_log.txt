@@ -1,0 +1,55 @@
+Initialize engine version: 4.3.3f1 (c8ca9b6b9936)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 9.18.13.3788]
+    Renderer: NVIDIA GeForce GT 750M  
+    Vendor:   NVIDIA
+    VRAM:     1952 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Default GameObject Tag: yellowPlatform already registered
+ 
+(Filename:  Line: 68)
+
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\filip\Desktop\portfolio\GlobalGameJam-2014\Executable\AdventuresOfRYB_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\filip\Desktop\portfolio\GlobalGameJam-2014\Executable\AdventuresOfRYB_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\filip\Desktop\portfolio\GlobalGameJam-2014\Executable\AdventuresOfRYB_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\filip\Desktop\portfolio\GlobalGameJam-2014\Executable\AdventuresOfRYB_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\filip\Desktop\portfolio\GlobalGameJam-2014\Executable\AdventuresOfRYB_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\filip\Desktop\portfolio\GlobalGameJam-2014\Executable\AdventuresOfRYB_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\filip\Desktop\portfolio\GlobalGameJam-2014\Executable\AdventuresOfRYB_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\filip\Desktop\portfolio\GlobalGameJam-2014\Executable\AdventuresOfRYB_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\filip\Desktop\portfolio\GlobalGameJam-2014\Executable\AdventuresOfRYB_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\filip\Desktop\portfolio\GlobalGameJam-2014\Executable\AdventuresOfRYB_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.042 seconds
+desktop: 2048x1152 60Hz; virtual: 2048x1152 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1699)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1699)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1699)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1699)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1699)
+
+UnloadTime: 0.239903 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 500.
+Total: 0.593986 ms (FindLiveObjects: 0.020954 ms CreateObjectMapping: 0.008552 ms MarkObjects: 0.141547 ms  DeleteObjects: 0.076119 ms)
+
+Platform assembly: C:\Users\filip\Desktop\portfolio\GlobalGameJam-2014\Executable\AdventuresOfRYB_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Platform assembly: C:\Users\filip\Desktop\portfolio\GlobalGameJam-2014\Executable\AdventuresOfRYB_Data\Managed\Boo.Lang.dll (this message is harmless)
